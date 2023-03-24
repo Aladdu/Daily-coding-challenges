@@ -1,10 +1,10 @@
 "# Aladdu" 
-//Ares of the rectangle problem in java:
-// Area of rectangle is the region occupied by a rectangle within its four sides or boundaries.
-//formula:Area of rectangle = Length x Breadth
-//        A = lb
+Ares of the rectangle problem in java:
+Area of rectangle is the region occupied by a rectangle within its four sides or boundaries.
+formula:Area of rectangle = Length x Breadth
+        A = lb
 import java.util.Scanner;
-/*public class First_Project {
+public class First_Project {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.print("Enter Leanth:");
@@ -14,8 +14,8 @@ import java.util.Scanner;
 		float Area=leanth*breadth;
 		System.out.println("The area Rectanagle is "+Area);
 	}
-}*/
-//or we can do this program into another way also
+}
+or we can do this program into another way also
 public class First_Project {
 	Scanner sc=new Scanner(System.in);
 	public float Rectangle(){
