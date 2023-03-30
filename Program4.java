@@ -1,4 +1,4 @@
-//swapping by using the 2 numbers itself.
+swapping by using the 2 numbers itself.
 public class Program4 
 {
 public String swapping()
