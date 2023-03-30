@@ -1,4 +1,4 @@
-//writing a HELLO WORLD! program
+writing a HELLO WORLD! program
 public class Program1
 {
 public static void main(String[] args)
@@ -6,8 +6,8 @@ public static void main(String[] args)
 System.out.println("hello world");	
 }
 }
-//writing a HELLO WORLD! program by using the method calling.
-/*public class Program1
+writing a HELLO WORLD! program by using the method calling.
+public class Program1
 {
 public void f1()
 {
