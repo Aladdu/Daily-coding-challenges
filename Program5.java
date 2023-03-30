@@ -1,4 +1,4 @@
-//give number is even or odd
+give number is even or odd by using java.
 import java.util.Scanner;
 public class Program5 {
 	public String EvenorOdd(){
