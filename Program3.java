@@ -1,4 +1,4 @@
-//swapping of 2 number by using 3rd variable.
+swapping of 2 number by using 3rd variable.
 import java.util.Scanner;
 public class Program3 {
 	Scanner sc=new Scanner(System.in);
